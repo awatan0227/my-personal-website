@@ -1,3 +1,3 @@
 # my-personal-website
 
-open-minded, organized, 
+open-minded, organized, patient
