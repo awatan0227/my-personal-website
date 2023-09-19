@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(
+        to right, 
+        rgb(212, 226, 212) 0%, 
+        rgb(212, 226, 212) 40%,   
+        rgb(250, 243, 240) 40%,
+        rgb(250, 243, 240) 100%);
+}
+.header1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color:black;
+    }
+.topheader{
+    background-color:white 50;
+    padding: 5%;
+    
+    ;
+}
+
+a{
+    color: black;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-decoration: none;
+    text-align: right;
+}
+.right{
+    text-align: right;
+    float:right;
+    ;
+}
