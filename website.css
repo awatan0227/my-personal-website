@@ -1,0 +1,143 @@
+.indexbody{
+    background: linear-gradient(to right, 
+        rgb(212, 226, 212) 0%, 
+        rgb(212, 226, 212) 40%,   
+        rgb(250, 243, 240) 40%,
+        rgb(250, 243, 240) 100%);
+    background-attachment: fixed;
+    margin: 0;
+    overflow: fixed;
+}
+.aboutbody{
+    background: linear-gradient(to right, 
+    rgb(228, 208, 208) 0%, 
+    rgb(228, 208, 208) 50%,   
+    rgb(213, 180, 180) 50%,
+    rgb(213, 180, 180) 100%);
+background-attachment: fixed;
+margin: 0;
+}
+.portfoliobody{
+    background: linear-gradient(to right, 
+    rgb(212, 226, 212) 0%, 
+    rgb(212, 226, 212) 10%,   
+    rgb(250, 243, 240) 10%,
+    rgb(250, 243, 240) 90%,
+    rgb(212, 226, 212) 90%,
+    rgb(212, 226, 212) 100%);
+background-attachment: fixed;
+margin: 0;
+background-position: 15%;
+}
+.header1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color:black;
+    font-size: 30px;
+    }
+.topheader{
+    background-color:rgb(255, 245, 234) ;
+    padding: 2%;
+    margin: 0;
+}
+a{
+    color: black;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-size: larger;
+}
+.indeximg{
+    padding-left: 5%;
+    position:absolute;
+    table-layout: fixed; 
+}
+
+.right{
+    position: absolute;
+    text-align:right;
+    margin: 0;
+
+}
+.aboutimg{
+    padding-left: 50%;
+    padding-top: 1%;
+}
+.aboutborder{
+    border-style: solid;
+    color: white;
+    height: 680px;
+}
+.portfoliobackground{
+    padding-left: 13%;
+    margin: 0;
+}
+.portimg2{
+    width: 35%;
+    height: 35%;
+    padding-left: 50%;
+    margin: 0;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 15%;
+    padding-top: 3%;
+    gap: 3%;
+}
+.grid-container2{
+    display: grid;
+    grid-template-columns: 40% 50%;
+    padding-left: 15%;
+    padding-top: 5%;
+    gap:3%;
+}
+.grid-container3{
+    display: grid;
+    grid-template-columns: 40% 50%;
+    padding-left: 15%;
+    padding-top: 3%;
+    gap:3%;
+}
+.textContainer{
+    margin-top: 15%;
+}
+.vertical{
+    writing-mode: vertical-rl;
+    text-shadow: 10%;
+    padding-top: 50%;
+    font-size: 150%;
+}
+.imgframe{
+    border-style: dashed;
+    height: 400px;
+    width: 38%;
+    padding-top: 21%;
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-color: rgb(121, 135, 119);
+    border-radius: 10%;
+    text-align-last: auto
+    ;
+}
+.h4{
+    font-size:smaller;
+    text-align: right;
+    color: rgb(121, 135, 119);
+    
+}
+.abouttext{
+    padding-top: 5%;
+
+}
+.aboutheader{
+    font-size: 60px;
+    font-weight: 400;
+    padding-left:12%;
+}
+.sideway{
+    writing-mode: sideways-rl;
+}
