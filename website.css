@@ -2,8 +2,8 @@
     background: linear-gradient(to right, 
         rgb(212, 226, 212) 0%, 
         rgb(212, 226, 212) 40%,   
-        rgb(250, 243, 240) 40%,
-        rgb(250, 243, 240) 100%);
+        rgb(248, 237, 227) 40%,
+        rgb(248, 237, 227) 100%);
     background-attachment: fixed;
     margin: 0;
     overflow: fixed;
@@ -22,7 +22,7 @@ margin: 0;
     rgb(212, 226, 212) 0%, 
     rgb(212, 226, 212) 10%,   
     rgb(250, 243, 240) 10%,
-    rgb(250, 243, 240) 90%,
+    rgb(248, 237, 227) 90%,
     rgb(212, 226, 212) 90%,
     rgb(212, 226, 212) 100%);
 background-attachment: fixed;
