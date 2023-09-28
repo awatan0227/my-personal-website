@@ -11,6 +11,7 @@
     padding: 2%;
     margin: 0;
     margin-left: -1%;
+    margin-top: -1%;
 }
 a{
     color: black;
@@ -31,13 +32,12 @@ html{
 .body{
     background-color: rgb(244, 223, 208);
     -webkit-overflow-scrolling: none;
-    overflow: fixed;
 }
 footer{
     background-color: rgb(218, 208, 194);
-    padding:10%;
+    padding:20%;
     margin-left: -1%;
-    
+    margin-top: 3%;
 }
 div{
     overflow: fixed;
@@ -57,9 +57,9 @@ p{
     border-style: double;
     display: block;
     border-color: black;
-    height: 750pt;
-    width: 118em;
-    
+    height: 100%;
+    width: 99%;
+    margin-top: 3%;
 }
 input[type="text"]{
     width: 50%;
@@ -73,7 +73,7 @@ input[type="button"]{
     cursor: pointer;
     overflow: fixed;
     align-items: center;
-    margin: 1%;
+    margin: 1%; 
 }
 textarea{
     resize: vertical;
@@ -87,4 +87,5 @@ img{
 footer{
     text-align: center;
     padding-top: 5px;
+    font-size: pt;
 }
