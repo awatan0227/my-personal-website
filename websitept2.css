@@ -37,7 +37,6 @@ footer{
     background-color: rgb(218, 208, 194);
     padding:20%;
     margin-left: -1%;
-    margin-top: 3%;
 }
 div{
     overflow: fixed;
@@ -59,7 +58,7 @@ p{
     border-color: black;
     height: 100%;
     width: 99%;
-    margin-top: 3%;
+    margin-top: 3.5%;
 }
 input[type="text"]{
     width: 50%;
@@ -88,4 +87,5 @@ footer{
     text-align: center;
     padding-top: 5px;
     font-size: pt;
+    overflow: fixed;
 }
