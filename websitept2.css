@@ -1,0 +1,16 @@
+/*Background*/
+
+/*Section - Contact Me*/
+h2 {
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    text-align: center;
+}
+.ptext{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12.5%;
+}
+/*Contacts - list*/
