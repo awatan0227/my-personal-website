@@ -1,0 +1,91 @@
+/*header*/
+.header1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color:black;
+    font-size: 30px;
+    
+}
+.topheader{
+    background-color:rgb(255, 245, 234);
+    padding: 2%;
+    margin: 0;
+    margin-left: -1%;
+    margin-top: -1%;
+}
+a{
+    color: black;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-size: larger;
+}
+/*Background*/
+html{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.body{
+    background-color: rgb(244, 223, 208);
+    -webkit-overflow-scrolling: none;
+}
+footer{
+    background-color: rgb(218, 208, 194);
+    padding:20%;
+    margin-left: -1%;
+}
+div{
+    overflow: fixed;
+    margin: 0 auto;
+   
+}
+/*Section - Contact Me*/
+h2 {
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    text-align: center;
+}
+/*Contacts - list*/
+.border{
+    border-style: double;
+    display: block;
+    border-color: black;
+    height: 100%;
+    width: 99%;
+    margin-top: 3.5%;
+}
+input[type="text"]{
+    width: 50%;
+    margin: 10px;
+    padding: 12px;
+    border-color:rgb(121, 135, 119);
+}
+input[type="button"]{
+    width: 80pt;
+    padding: 13px;
+    cursor: pointer;
+    overflow: fixed;
+    align-items: center;
+    margin: 1%; 
+}
+textarea{
+    resize: vertical;
+    width: 51.25%;
+    max-height: 10cm;
+}
+img{
+    height: 3rem;
+    width: 3rem;
+}
+footer{
+    text-align: center;
+    padding-top: 5px;
+    font-size: pt;
+    overflow: fixed;
+}
